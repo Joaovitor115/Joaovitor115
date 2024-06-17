@@ -1,6 +1,6 @@
 <h1 align="center">Oi 👋, me chamo João Vitor</h1>
 <h3 align="center">Desenvolvedor back-end</h3>
-<img align="right" alt="Coding" width="360" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovitor115&label=Profile%20views&color=0e75b6&style=flat" alt="joaovitor115" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
